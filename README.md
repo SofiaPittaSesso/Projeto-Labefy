@@ -24,7 +24,7 @@ As seguintes ferramentas foram usadas na construção do projeto:
 * O usuário é capaz de criar, acessar e deletar suas playlists
 * O usuário é capaz de adicionar músicas à playlist selecionada, usando o link copiado do spotify
 * O usuário pode deletar as músicas da playlist
-* Responsividade para desktop 
+* Responsividade para celulares 
 
 ## <h2 id="img-desktop">🖥️ Imagens Desktop</h2>
   
