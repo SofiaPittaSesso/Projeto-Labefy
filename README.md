@@ -47,6 +47,7 @@ Página Inicial  | Página de Gerenciamento das Playlists | Página de Adicionar
 ![image](https://user-images.githubusercontent.com/94647334/159582120-f3208eb1-b479-4e11-895e-5eae1a04ab31.png) | ![image](https://user-images.githubusercontent.com/94647334/159582160-008e13ed-729a-4427-b80d-11a144f98c8d.png) | ![image](https://user-images.githubusercontent.com/94647334/159582272-29e5fe9c-8c06-40e3-9305-8976cf0adef9.png)
   
 ## <h2 id="fontes">Fontes<h2>
+  
 <p>Os ícones usados neste projeto foram baixados do <a href="https://www.flaticon.com/" target="blank">flaticon</a>.</p>
   
 ________________________________________
