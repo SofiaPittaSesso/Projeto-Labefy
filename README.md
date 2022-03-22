@@ -14,7 +14,6 @@
 As seguintes ferramentas foram usadas na construção do projeto:
 
 * JavaScript
-* CSS
 * React
 * Styled-components
 * <a href="https://documenter.getpostman.com/view/7549981/SztBc8eT?version=latest" target="_blank">API</a>
