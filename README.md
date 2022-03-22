@@ -3,7 +3,7 @@
 ### Link do Surge: <a href="https://glossy-ladybug.surge.sh/" target="_blank" title="Labefy">Labefy</a>
 
 <div align="center">
-<a href="#sobre">Sobre</a> | <a href="#tecnologias">Tecnologias</a> | <a href="#funciona">O que funciona</a> | <a href='#img-desktop'>Imagens Desktop</a> | <a href='#img-mobile'>Imagens Mobile</a>
+<a href="#sobre">Sobre</a> | <a href="#tecnologias">Tecnologias</a> | <a href="#funciona">O que funciona</a> | <a href='#img-desktop'>Imagens Desktop</a> | <a href='#img-mobile'>Imagens Mobile</a> | <a href='#fontes'>Fontes</a>
 </div>
 
 ## <h2 id="sobre">📓 Sobre<h2>
@@ -45,6 +45,9 @@ Página de Adicionar Músicas à Playlist
 Página Inicial  | Página de Gerenciamento das Playlists | Página de Adicionar Músicas à Playlist
 :-------------------------:|:-------------------------:|:-------------------------:
 ![image](https://user-images.githubusercontent.com/94647334/159582120-f3208eb1-b479-4e11-895e-5eae1a04ab31.png) | ![image](https://user-images.githubusercontent.com/94647334/159582160-008e13ed-729a-4427-b80d-11a144f98c8d.png) | ![image](https://user-images.githubusercontent.com/94647334/159582272-29e5fe9c-8c06-40e3-9305-8976cf0adef9.png)
+  
+## <h2 id="fontes">Fontes<h2>
+Os ícones usados neste projeto foram baixados do <a href="https://www.flaticon.com/" target="blank">flaticon</a>
   
 ________________________________________
 
